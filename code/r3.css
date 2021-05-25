@@ -1,0 +1,16 @@
+
+.noticia {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.video{
+  flex-grow: 1;
+}
+
+.texto {
+  flex-grow: 2;
+  max-width:60%;
+  margin-bottom:auto; 
+  margin-top:auto;
+}
